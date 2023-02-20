@@ -1,7 +1,7 @@
 # CLIENT - MANAGER
 It's a Client-Manager Linux Console Program
 
-#OUTPUTS
+# OUTPUTS
 
 ![Screenshot from 2023-01-05 17-08-18](https://user-images.githubusercontent.com/101721434/220133014-34797626-0f57-4b5b-86ee-b90cc2dd0d77.png)
 
